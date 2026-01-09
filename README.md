@@ -1,7 +1,9 @@
 # AI in Cybersecurity: The Impact on SOC Operations
 
 **Topic:** Analysis of Artificial Intelligence automation in Security Operations Centers (SOCs).
+
 **Focus:** Operational Efficiency vs. Analyst Burnout.
+
 **Status:** Completed
 
 ### 📄 Abstract
